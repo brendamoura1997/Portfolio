@@ -51,13 +51,9 @@
   font-weight: 500;
 }
 
-<<<<<<< HEAD
+
 /* aquela linha depois do hey */
 /* .site-main .site-banner .site-title h3::after {
-=======
-.site-main .site-banner .site-title h3::after {
-  /* aquela linha depois do hey */
->>>>>>> e314948eab394c0dbda2bbfdd5df467f279d9255
   content: " ";
   height: 2px;
   width: 25vw;
@@ -65,12 +61,8 @@
   display: inline-block;
   margin-left: 5%;
   transform: translateY(-10px);
-<<<<<<< HEAD
-} */
-=======
-}
->>>>>>> e314948eab394c0dbda2bbfdd5df467f279d9255
 
+} */
 
 .site-main .site-banner .site-title h1 {
   font-size: 5rem;
