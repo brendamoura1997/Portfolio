@@ -1,6 +1,7 @@
 ### Portfolio
 Este repositório tem como objetivo armazenar o website que construí para servir como meu portfólio pessoal.
-Website no ar: https://brendamoura1997.netlify.app/
+
+Link para o Website: https://brendamoura1997.netlify.app/
 
 
 ## Layout
